@@ -1,4 +1,5 @@
 /*jebac halinke*/
+/*cipa*/
 #define trigPin 12
 #define echoPin 11
  
